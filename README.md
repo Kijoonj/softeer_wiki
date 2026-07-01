@@ -1,2 +1,2 @@
 # softeer
-wiki for softeer
+wiki page for softeer
